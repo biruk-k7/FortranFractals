@@ -1,4 +1,4 @@
-**Fortran Fractal Generator**
+## Fortran Fractal Generator
 
 ![fern](https://github.com/user-attachments/assets/871d55a5-88b5-4cf0-af25-0c9e22fbbb38)
 
